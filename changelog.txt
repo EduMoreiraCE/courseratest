@@ -1,0 +1,50 @@
+Microsoft Windows [versão 10.0.19044.1586]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\Pichau>git clone https://github.com/EduMoreiraCE/courseratest.git
+Cloning into 'courseratest'...
+remote: Enumerating objects: 8, done.
+remote: Counting objects: 100% (8/8), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (8/8), done.
+
+C:\Users\Pichau>cd courseratest
+
+C:\Users\Pichau\courseratest>/
+'/' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Pichau\courseratest> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\Pichau\courseratest>git checkout gh-pages
+Switched to a new branch 'gh-pages'
+branch 'gh-pages' set up to track 'origin/gh-pages'.
+
+C:\Users\Pichau\courseratest>git status
+On branch gh-pages
+Your branch is up to date with 'origin/gh-pages'.
+
+nothing to commit, working tree clean
+
+C:\Users\Pichau\courseratest>ls
+'ls' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Pichau\courseratest>krdir site
+'krdir' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Pichau\courseratest>mkdir site
+
+C:\Users\Pichau\courseratest>cd site
+
+C:\Users\Pichau\courseratest\site>ls
+'ls' não é reconhecido como um comando interno
+ou externo, um programa operável ou um arquivo em lotes.
+
+C:\Users\Pichau\courseratest\site> 
